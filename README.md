@@ -1,2 +1,6 @@
-# My-portfolio
-its basically a repo (outlet) where i dump all my creativity
+# my portfolio
+
+my personal website, built with html and tailwind.
+
+- a bit about me and what i like
+- links to my other stuff
